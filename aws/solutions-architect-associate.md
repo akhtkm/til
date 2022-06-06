@@ -13,6 +13,11 @@
 - Cold HDD
   - 大量のデータベースなどのバックアップで使用する
 
+### Amazon FSx
+
+- SMBプロトコルによるデータ転送が可能
+  - フルマネージド型のネイティブ Microsoft Windows ファイルシステムが提供される．
+
 # 疎結合化メカニズム
 
 - Amazon Simple Queue Service
